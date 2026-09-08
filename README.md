@@ -1,6 +1,6 @@
 # Procure-to-Pay Process Mining — CeloFact (Celonis Value Engineer Challenge)
 
-Process mining analysis and Celonis application built as part of a Value Engineer interview challenge — simulating the workflow of identifying, quantifying, and pitching process improvement opportunities in a manufacturer's Procure-to-Pay process.
+Process mining analysis and Celonis application built, simulating the workflow of identifying, quantifying, and pitching process improvement opportunities in a manufacturer's Procure-to-Pay process.
 
 ## Context
 
