@@ -91,8 +91,8 @@ Two opportunities were sized and packaged as one-pagers (challenge → root caus
 
 | | |
 |---|---|
-| !<img width="1440" height="671" alt="image" src="https://github.com/user-attachments/assets/c442c626-0c34-40c5-9073-24824cabc03b" />
-| !<img width="1440" height="670" alt="image" src="https://github.com/user-attachments/assets/259c9a39-4a54-4e73-abd1-4bab832ecbae" />
+| <img width="1440" height="671" alt="image" src="https://github.com/user-attachments/assets/c442c626-0c34-40c5-9073-24824cabc03b" />
+| <img width="1440" height="670" alt="image" src="https://github.com/user-attachments/assets/259c9a39-4a54-4e73-abd1-4bab832ecbae" />
  |
 | *Process Explorer — full P2P variant map* | *Executive Dashboard — top-line KPIs and pain points* |
 | ![Opportunity Deep Dive](./assets/opportunity-deep-dive.png) | ![Maverick Spending Deep Dive](./assets/maverick-spending-deep-dive.png) |
