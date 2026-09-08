@@ -48,7 +48,7 @@ Activity-level breakdown of occurrence counts vs. automation rate, plus vendor-l
 ### 4. MVP1: AI Findings
 A first pass at AI-assisted analysis on invoice payment behavior — flagging early/late/on-time clearing patterns and payment date deviation, split by contract vs. no-contract usage.
 
-> Screenshots of each view are available as a PDF in [`assets/`](./assets)
+> Screenshots of each view are shown below.
 
 ## Opportunities Quantified
 
